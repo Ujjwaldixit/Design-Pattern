@@ -19,9 +19,10 @@ Some advantages of Design Patterns are:-
 3. Behavioral design pattern
  <br>
  <br>
- ![Types of Design Patterns](https://i0.wp.com/techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/06/Types-of-Design-Pattern-in-Java.jpg?resize=771%2C476&ssl=1)
+ ![Types of Design Patterns]( https://i0.wp.com/techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/06/Types-of-Design-Pattern-in-Java.jpg?resize=771%2C476&ssl=1 )
+<br>
 
-Here, we will discuss 5 design patterns.
+### Here, we will discuss 5 design patterns.
 
 ## 1. Template Design Pattern
 Template Method is a behavioral design pattern and its used in the scenarios where the **order of execution of program in fixed and same**.
